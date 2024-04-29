@@ -1,1 +1,1 @@
-worker: python3 -m auction 
+worker: python3 -m main.go
